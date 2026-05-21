@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="nuget.config" />
+  </Folder>
+  <Project Path="OTelBot.ApiService/OTelBot.ApiService.csproj" />
+  <Project Path="OTelBot.AppHost/OTelBot.AppHost.csproj" />
+  <Project Path="OTelBot.ServiceDefaults/OTelBot.ServiceDefaults.csproj" />
+</Solution>
